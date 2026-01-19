@@ -5,6 +5,8 @@
 # SQLite databases
 db.sqlite3
 *.sqlite3
+*.sql
+
 
 # Python
 __pycache__/
